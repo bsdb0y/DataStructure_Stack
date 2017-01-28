@@ -1,6 +1,6 @@
 #Data Structure
 
-#implementation of Stack in C++ 
+#Implementation of Stack in C++ using Object Oriented Approach and Dynamic Memeory Allocation.
 
 Implement functions:
 
